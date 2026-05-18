@@ -61,9 +61,9 @@
 | Competition | Category | Task | Result |
 |:-----------:|:--------:|:----:|:------:|
 | FindIT 2026 | Data Analytics Competition | Face Anti-Spoofing | 1st Winner |
-| Arkavidia 10.0 | Datavidia (Final) | - | 5th Finalist |
-| Arkavidia 10.0 | Datavidia (Preliminary) | - | 5th Place |
-| MCF 2026 | Data Science Competition  | - | 8th Private LB |
+| Arkavidia 10.0 | Datavidia (Final) | Yelp Review Rating Prediction | 5th Finalist |
+| Arkavidia 10.0 | Datavidia (Preliminary) | Air Pollution Index (ISPU) Classification | 5th Place |
+| MCF 2026 | Data Science Competition  | Health Insurance Claim Trend Forecasting | 8th Private LB |
 
 </div>
 
@@ -85,7 +85,7 @@
       <sub><b>Awarding Night FindIT 2026, UGM</b></sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Three-Params/.github/main/docs/post-8-live-coding.jpg" height="200"/>
+      <img src="https://raw.githubusercontent.com/Three-Params/.github/main/docs/post-8-hour-live-coding.jpg" height="200"/>
       <br/>
       <sub><b>Post 8-Hour Live Coding Session Datavidia, ITB</b></sub>
     </td>
