@@ -80,17 +80,17 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./docs/awarding-night-findit.jpg" width="300" height="200"/>
+      <img src="https://raw.githubusercontent.com/Three-Params/.github/main/docs/awarding-night-findit.jpg" height="200"/>
       <br/>
       <sub><b>Awarding Night FindIT 2026, UGM</b></sub>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200/4F46E5/ffffff?text=Team+Photo+2" width="300" height="200"/>
+      <img src="https://raw.githubusercontent.com/Three-Params/.github/main/docs/post-8-live-coding.jpg" height="200"/>
       <br/>
       <sub><b>Post 8-Hour Live Coding Session Datavidia, ITB</b></sub>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200/3B82F6/ffffff?text=Team+Photo+3" width="300" height="200"/>
+      <img src="https://raw.githubusercontent.com/Three-Params/.github/main/docs/final-arkavidia.jpg" height="200"/>
       <br/>
       <sub><b>Final Arkavidia 10.0, ITB</b></sub>
     </td>
