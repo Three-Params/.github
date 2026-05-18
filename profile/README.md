@@ -80,7 +80,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200/7C3AED/ffffff?text=Team+Photo+1" width="300" height="200"/>
+      <img src="./docs/awarding-night-findit.jpg" width="300" height="200"/>
       <br/>
       <sub><b>Awarding Night FindIT 2026, UGM</b></sub>
     </td>
