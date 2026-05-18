@@ -58,9 +58,12 @@
 
 <div align="center">
 
-| Year | Competition | Category | Task | Result |
-|:----:|:-----------:|:--------:|:----:|:------:|
-| - | - | - | - | - |
+| Competition | Category | Task | Result |
+|:-----------:|:--------:|:----:|:------:|
+| FindIT 2026 | Data Analytics Competition | Face Anti-Spoofing | 1st Winner |
+| Arkavidia 10.0 | Datavidia (Final) | - | 5th Finalist |
+| Arkavidia 10.0 | Datavidia (Preliminary) | - | 5th Place |
+| MCF 2026 | Data Science Competition  | - | 8th Private LB |
 
 </div>
 
@@ -79,17 +82,17 @@
     <td align="center">
       <img src="https://via.placeholder.com/300x200/7C3AED/ffffff?text=Team+Photo+1" width="300" height="200"/>
       <br/>
-      <sub><b>📍 Event / Competition Name</b></sub>
+      <sub><b>Awarding Night FindIT 2026, UGM</b></sub>
     </td>
     <td align="center">
       <img src="https://via.placeholder.com/300x200/4F46E5/ffffff?text=Team+Photo+2" width="300" height="200"/>
       <br/>
-      <sub><b>📍 Event / Competition Name</b></sub>
+      <sub><b>Post 8-Hour Live Coding Session Datavidia, ITB</b></sub>
     </td>
     <td align="center">
       <img src="https://via.placeholder.com/300x200/3B82F6/ffffff?text=Team+Photo+3" width="300" height="200"/>
       <br/>
-      <sub><b>📍 Event / Competition Name</b></sub>
+      <sub><b>Final Arkavidia 10.0, ITB</b></sub>
     </td>
   </tr>
 </table>
