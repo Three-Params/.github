@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 <!--                      ANIMATED BANNER                         -->
 <!-- ============================================================ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Three%20Params&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=%E2%88%87%20Gradient.%20Learn.%20Optimize.%20Converge.&descSize=17&descAlignY=62&descAlign=50&descColor=c4b5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Three%20Params&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%E2%88%87%20Gradient.%20Learn.%20Optimize.%20Converge.&descSize=16&descAlignY=62&descAlign=50&descColor=c4b5fd" width="100%"/>
 
 <br/>
 
@@ -44,9 +44,9 @@
 
 | 🤖 Member | GitHub |
 |:---------:|:------:|
-| Member 1 | [![GitHub](https://img.shields.io/badge/@username1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/username1) |
-| Member 2 | [![GitHub](https://img.shields.io/badge/@username2-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/username2) |
-| Member 3 | [![GitHub](https://img.shields.io/badge/@username3-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/username3) |
+| Muhammad Naufal Muzaki | [![GitHub](https://img.shields.io/badge/@mnaufalmuzaki811-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mnaufalmuzaki811) |
+| Marvel Irawan | [![GitHub](https://img.shields.io/badge/@MARVELG0D-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MARVELG0D) |
+| Rafsanjani | [![GitHub](https://img.shields.io/badge/@Rafsandeylora-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rafsandeylora) |
 
 </div>
 
@@ -108,9 +108,9 @@
 
 <br/><br/>
 
-*"The goal is to turn data and information into insight and knowledge."*
+*"Kalian bisa rehearsal sendiri harusnya."*
 <br/>
-— **Carly Fiorina**
+— **Pak Alfan**
 
 </div>
 
