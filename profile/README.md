@@ -24,6 +24,14 @@
 &nbsp;
 ![θ₃](https://img.shields.io/badge/%CE%B8%E2%82%83%20Optimize%20Victory-3B82F6?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+<br/>
+
+<!-- ============================================================ -->
+<!--                     VISITOR COUNTER                           -->
+<!-- ============================================================ -->
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Three-Params&left_color=7C3AED&right_color=3B82F6&left_text=Total%20Visitors)
+
 </div>
 
 <br/>
@@ -97,18 +105,6 @@
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="650"/>
-
-</div>
-
-<br/>
-
----
-
-## 👁️ Visitors
-
-<div align="center">
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Three-Params&left_color=7C3AED&right_color=3B82F6&left_text=Total%20Visitors)
 
 <br/><br/>
 
