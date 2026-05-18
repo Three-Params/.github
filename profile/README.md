@@ -38,6 +38,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Three-Params)
+
 ---
 
 ## 📂 Repositories
