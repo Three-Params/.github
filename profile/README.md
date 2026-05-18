@@ -1,58 +1,134 @@
 <div align="center">
 
-# 🧠 Three Params
+<!-- ============================================================ -->
+<!--                      ANIMATED BANNER                         -->
+<!-- ============================================================ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Three%20Params&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%E2%88%87%20Gradient.%20Learn.%20Optimize.%20Converge.&descSize=16&descAlignY=62&descAlign=50&descColor=c4b5fd" width="100%"/>
 
-**A competitive Data Science & AI team from Indonesia**
+<!-- ============================================================ -->
+<!--                    PARAMETER EQUATION                         -->
+<!-- ============================================================ -->
 
-*Documenting our journey through data, models, and competitions*
+$$\hat{y} \ = \ f\!\left(X;\ \theta_1,\ \theta_2,\ \theta_3\right)$$
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                      TYPING EFFECT                            -->
+<!-- ============================================================ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=A+Data+Science+%26+AI+Competition+Team+%F0%9F%A7%A0;Turning+data+into+victories+%F0%9F%8F%86;Students+of+Universitas+Indonesia+%F0%9F%8E%93;Optimizing+the+world%2C+one+parameter+at+a+time+%E2%9A%99%EF%B8%8F;Training+models.+Winning+competitions.+%F0%9F%A4%96;Where+%CE%B8+meets+data+%F0%9F%93%8A;Loss+%E2%86%93+%E2%80%94+Accuracy+%E2%86%91+%E2%80%94+Victory+%F0%9F%8F%86;Gradient+descent+toward+the+podium+%F0%9F%94%BD" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- ============================================================ -->
+<!--                    PARAMETER BADGES                           -->
+<!-- ============================================================ -->
+
+![θ₁](https://img.shields.io/badge/%CE%B8%E2%82%81_Explore-Data-7C3AED?style=for-the-badge&logo=databricks&logoColor=white)
+![θ₂](https://img.shields.io/badge/%CE%B8%E2%82%82_Model-Intelligence-4F46E5?style=for-the-badge&logo=pytorch&logoColor=white)
+![θ₃](https://img.shields.io/badge/%CE%B8%E2%82%83_Optimize-Victory-3B82F6?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
----
-
-## 👥 The Team
-
-| Name | Role | GitHub |
-|------|------|--------|
-| [Nama kamu] | Lead & Data Scientist | [@username](https://github.com/username) |
-| [Nama anggota 2] | ML Engineer | [@username2](https://github.com/username2) |
-| [Nama anggota 3] | Data Analyst | [@username3](https://github.com/username3) |
-
----
-
-## 🏆 Competition History
-
-| Year | Competition | Topic | Result |
-|------|------------|-------|--------|
-| 2025 | [Nama Lomba] | Computer Vision | 🥇 1st Place |
-| 2024 | [Nama Lomba] | NLP | 🥈 2nd Place |
-| 2024 | [Nama Lomba] | Tabular / EDA | 🏅 Top 10 |
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Three-Params)
-
----
-
-## 📂 Repositories
-
-Semua repository diorganisasi dengan format penamaan:
-`[tahun]-[nama-lomba]-[topik]`
-
-Browse semua repo kami di tab **Repositories** ⬆️
+<br/>
 
 ---
 
 <div align="center">
 
-*"In God we trust; all others must bring data."* — W. Edwards Deming
+## `> ./team --list-members`
 
 </div>
+
+<br/>
+
+<div align="center">
+
+| 🤖 Member | GitHub |
+|:---------:|:------:|
+| Member 1 | [![GitHub](https://img.shields.io/badge/@username1-181717?style=flat&logo=github&logoColor=white)](https://github.com/username1) |
+| Member 2 | [![GitHub](https://img.shields.io/badge/@username2-181717?style=flat&logo=github&logoColor=white)](https://github.com/username2) |
+| Member 3 | [![GitHub](https://img.shields.io/badge/@username3-181717?style=flat&logo=github&logoColor=white)](https://github.com/username3) |
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## `> ./competitions --show-history`
+
+</div>
+
+<br/>
+
+| Year | Competition | Category | Task | Result |
+|:----:|:-----------:|:--------:|:----:|:------:|
+| - | - | - | - | - |
+
+> 📌 *More competitions will be documented here as our journey continues...*
+
+<br/>
+
+---
+
+<div align="center">
+
+## `> ./git log --contribution-snake`
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Three-Params/.github/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Three-Params/.github/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Three-Params/.github/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## `> ./quote --random --topic="data science & AI"`
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="650"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## `> ./visitors --count --page=Three-Params`
+
+<br/>
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Three-Params&left_color=7C3AED&right_color=3B82F6&left_text=Total%20Visitors)
+
+<br/><br/>
+
+*"The goal is to turn data and information into insight and knowledge."*
+— **Carly Fiorina**
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                      FOOTER BANNER                            -->
+<!-- ============================================================ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
