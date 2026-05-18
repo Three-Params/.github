@@ -6,10 +6,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Three%20Params&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%E2%88%87%20Gradient.%20Learn.%20Optimize.%20Converge.&descSize=16&descAlignY=62&descAlign=50&descColor=c4b5fd" width="100%"/>
 
 <!-- ============================================================ -->
-<!--                    PARAMETER EQUATION                         -->
+<!--                    PARAMETER BADGES                           -->
 <!-- ============================================================ -->
 
-$$\hat{y} \ = \ f\!\left(X;\ \theta_1,\ \theta_2,\ \theta_3\right)$$
+![θ₁](https://img.shields.io/badge/%CE%B8%E2%82%81-Explore%20Data-7C3AED?style=for-the-badge&logo=databricks&logoColor=white)
+![θ₂](https://img.shields.io/badge/%CE%B8%E2%82%82-Model%20Intelligence-4F46E5?style=for-the-badge&logo=pytorch&logoColor=white)
+![θ₃](https://img.shields.io/badge/%CE%B8%E2%82%83-Optimize%20Victory-3B82F6?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 <br/>
 
@@ -19,16 +21,6 @@ $$\hat{y} \ = \ f\!\left(X;\ \theta_1,\ \theta_2,\ \theta_3\right)$$
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=A+Data+Science+%26+AI+Competition+Team+%F0%9F%A7%A0;Turning+data+into+victories+%F0%9F%8F%86;Students+of+Universitas+Indonesia+%F0%9F%8E%93;Optimizing+the+world%2C+one+parameter+at+a+time+%E2%9A%99%EF%B8%8F;Training+models.+Winning+competitions.+%F0%9F%A4%96;Where+%CE%B8+meets+data+%F0%9F%93%8A;Loss+%E2%86%93+%E2%80%94+Accuracy+%E2%86%91+%E2%80%94+Victory+%F0%9F%8F%86;Gradient+descent+toward+the+podium+%F0%9F%94%BD" alt="Typing SVG" />
 </a>
-
-<br/><br/>
-
-<!-- ============================================================ -->
-<!--                    PARAMETER BADGES                           -->
-<!-- ============================================================ -->
-
-![θ₁](https://img.shields.io/badge/%CE%B8%E2%82%81_Explore-Data-7C3AED?style=for-the-badge&logo=databricks&logoColor=white)
-![θ₂](https://img.shields.io/badge/%CE%B8%E2%82%82_Model-Intelligence-4F46E5?style=for-the-badge&logo=pytorch&logoColor=white)
-![θ₃](https://img.shields.io/badge/%CE%B8%E2%82%83_Optimize-Victory-3B82F6?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
@@ -71,27 +63,6 @@ $$\hat{y} \ = \ f\!\left(X;\ \theta_1,\ \theta_2,\ \theta_3\right)$$
 | - | - | - | - | - |
 
 > 📌 *More competitions will be documented here as our journey continues...*
-
-<br/>
-
----
-
-<div align="center">
-
-## `> ./git log --contribution-snake`
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Three-Params/.github/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Three-Params/.github/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Three-Params/.github/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
 
 <br/>
 
