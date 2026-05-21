@@ -60,7 +60,7 @@
 
 | Competition | Category | Task | Result |
 |:-----------:|:--------:|:----:|:------:|
-| FindIT 2026 | Data Analytics Competition | Face Anti-Spoofing | 1st Winner |
+| FindIT 2026 | Data Analytics Competition | Face Anti-Spoofing Detection | 1st Winner |
 | Arkavidia 10.0 | Datavidia (Final) | Yelp Review Rating Prediction | 5th Finalist |
 | Arkavidia 10.0 | Datavidia (Preliminary) | Air Pollution Index (ISPU) Classification | 5th Place |
 | MCF 2026 | Data Science Competition  | Health Insurance Claim Trend Forecasting | 8th Private LB |
